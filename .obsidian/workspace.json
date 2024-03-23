@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "708c025202ee7f69",
+    "type": "split",
+    "children": [
+      {
+        "id": "829dc077d9ee0208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f674db7f203e660",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redis/Why Redis does not use Multithreading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e0abb0b50c6476fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a56f27e21b67a3c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e1441d29bc65e99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d6b3b5d61d568849",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a9994accfc6d12d3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "161739ed4fdaa643",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ca91f862cba0de5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5924eb01ff289076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Redis/Why Redis does not use Multithreading.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c4697b9cb554a515",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Redis/Why Redis does not use Multithreading.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "88da2b74f4741d26",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "882873ef66f3b896",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Redis/Why Redis does not use Multithreading.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "8e1441d29bc65e99",
+  "lastOpenFiles": [
+    "README.md",
+    "Notion/JavaScript/Object Oriented/Object Oriented.md",
+    "Redis/Why Redis does not use Multithreading.md",
+    "Untitled 1",
+    "Redis/Understanding Event loop",
+    "Redis",
+    "Notion/JavaScript/More about arrays/More about arrays.md",
+    "Notion/JavaScript/DOM/DOM.md",
+    "Notion/JavaScript/Closer and a deeper look into functions/Closer and a deeper look into functions.md",
+    "Notion/JavaScript/Asynchronous Nature of Java script/Asynchronous Nature of Java script.md",
+    "Computer Architecture/Computer Architecture/Computer Architecture.md",
+    "Computer Architecture/Computer Architecture/Invesigating My Computer Architecture.md",
+    "Computer Architecture/Computer Architecture/Investigating CPU Information/Investigating CPU Information.md",
+    "Computer Architecture/Untitled.md",
+    "Images-attachments/Untitled 39.png",
+    "Computer Architecture/Computer Architecture/Physical Address and Virtual Address.md",
+    "Computer Architecture/Computer Architecture/Investigating CPU Information",
+    "Computer Architecture/Computer Architecture",
+    "Computer Architecture",
+    "Notion/JavaScript/TO Learn javascript.md",
+    "Images-attachments/Untitled 1 3.png",
+    "Images-attachments/Untitled 1.png",
+    "Images-attachments/Untitled.png",
+    "Images-attachments/temp.png",
+    "Notion/React Js/React Js.md",
+    "Images-attachments/Untitled 2 14.png",
+    "Images-attachments/Untitled 1 15.png",
+    "Images-attachments/Untitled 38.png",
+    "Notion/React Js",
+    "Notion/JavaScript/Data Structures,Strings/Data Structures,Strings.md",
+    "Notion/Node js/prettier and eslint config.md",
+    "Notion/Node js/Node js.md",
+    "Notion/Node js/Intro/Intro.md",
+    "Notion/Node js/How it works/Intro to Back End Architecture MVC Types of Logic and More.md",
+    "Notion/Node js/JSON format requirements/JSON format requirements.md",
+    "Notion/Node js/How it works/How Node js works Behind the scenes.md",
+    "Notion/Node js/Express/Express.md",
+    "Images-attachments/Untitled 4 10.png",
+    "Images-attachments/Untitled 3 12.png",
+    "Notion/Node js/How it works",
+    "Notion/Node js/JSON format requirements",
+    "Notion/Node js/Express",
+    "Notion/JavaScript/Modern development steps and how are things done in modern real world/Modern development steps and how are things done in modern real world.md",
+    "Notion/JavaScript/Numbers,Dates,Intl and Timers.md",
+    "Notion/JavaScript/Internal Working of Javascript and its variables/Internal Working of Javascript and its variables.md",
+    "Notion/JavaScript/JavaScript.md",
+    "Untitled.canvas"
+  ]
+}
