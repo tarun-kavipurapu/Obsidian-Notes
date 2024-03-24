@@ -11,9 +11,11 @@
             "id": "5f674db7f203e660",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "General/What happens when you type a URL into your browser?excalidraw.md"
+                "file": "Redis/Why Redis does not use Multithreading.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -93,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/What happens when you type a URL into your browser?excalidraw.md",
+                "file": "Redis/Why Redis does not use Multithreading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/What happens when you type a URL into your browser?excalidraw.md",
+                "file": "Redis/Why Redis does not use Multithreading.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/What happens when you type a URL into your browser?excalidraw.md"
+                "file": "Redis/Why Redis does not use Multithreading.md"
               }
             }
           }
@@ -157,10 +159,10 @@
       "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "5f674db7f203e660",
+  "active": "8e1441d29bc65e99",
   "lastOpenFiles": [
-    "General/Untitled.md",
     "General/What happens when you type a URL into your browser?excalidraw.md",
+    "General/Untitled.md",
     "handwritten-notes/What happens when you type a URL into your browser?.pdf",
     "handwritten-notes",
     "General/What happens when you type a URL into your browser? .excalidraw.md",
