@@ -11,11 +11,19 @@
             "id": "5f674db7f203e660",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Redis/Why Redis does not use Multithreading.md",
-                "mode": "source",
-                "source": false
+                "file": "General/What happens when you type a URL into your browser?excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "5954866dd0d881eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "General/What happens when you type a URL into your browser?excalidraw.md"
               }
             }
           }
@@ -48,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DNS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "161739ed4fdaa643",
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/Why Redis does not use Multithreading.md",
+                "file": "General/What happens when you type a URL into your browser?excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/Why Redis does not use Multithreading.md",
+                "file": "General/What happens when you type a URL into your browser?excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/Why Redis does not use Multithreading.md"
+                "file": "General/What happens when you type a URL into your browser?excalidraw.md"
               }
             }
           }
@@ -144,14 +152,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "handwritten-notes:Create empty handwritten note": false
     }
   },
-  "active": "8e1441d29bc65e99",
+  "active": "5f674db7f203e660",
   "lastOpenFiles": [
+    "General/Untitled.md",
+    "General/What happens when you type a URL into your browser?excalidraw.md",
+    "handwritten-notes/What happens when you type a URL into your browser?.pdf",
+    "handwritten-notes",
+    "General/What happens when you type a URL into your browser? .excalidraw.md",
+    "Excalidraw/Drawing 2024-03-24 00.12.45.excalidraw.md",
+    "Redis/Why Redis does not use Multithreading.md",
+    "General",
+    "Excalidraw",
     "README.md",
     "Notion/JavaScript/Object Oriented/Object Oriented.md",
-    "Redis/Why Redis does not use Multithreading.md",
     "Untitled 1",
     "Redis/Understanding Event loop",
     "Redis",
@@ -177,7 +195,6 @@
     "Images-attachments/Untitled 2 14.png",
     "Images-attachments/Untitled 1 15.png",
     "Images-attachments/Untitled 38.png",
-    "Notion/React Js",
     "Notion/JavaScript/Data Structures,Strings/Data Structures,Strings.md",
     "Notion/Node js/prettier and eslint config.md",
     "Notion/Node js/Node js.md",
@@ -185,16 +202,8 @@
     "Notion/Node js/How it works/Intro to Back End Architecture MVC Types of Logic and More.md",
     "Notion/Node js/JSON format requirements/JSON format requirements.md",
     "Notion/Node js/How it works/How Node js works Behind the scenes.md",
-    "Notion/Node js/Express/Express.md",
     "Images-attachments/Untitled 4 10.png",
     "Images-attachments/Untitled 3 12.png",
-    "Notion/Node js/How it works",
-    "Notion/Node js/JSON format requirements",
-    "Notion/Node js/Express",
-    "Notion/JavaScript/Modern development steps and how are things done in modern real world/Modern development steps and how are things done in modern real world.md",
-    "Notion/JavaScript/Numbers,Dates,Intl and Timers.md",
-    "Notion/JavaScript/Internal Working of Javascript and its variables/Internal Working of Javascript and its variables.md",
-    "Notion/JavaScript/JavaScript.md",
     "Untitled.canvas"
   ]
 }
