@@ -1,6 +1,6 @@
 To learn more about the asynchronous nature of JavaScript, learn from the JavaScript section of the notes.
 
-[[Intro]]
+[[Notion/Node js/Intro/Intro]]
 
 ![[Images-attachments/Untitled 32.png|Untitled 32.png]]
 
